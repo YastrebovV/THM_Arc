@@ -230,7 +230,6 @@ namespace THM_Arc
             pn2.Theme = MetroThemeStyle.Dark;
             this.Controls.Add(pn2);
 
-
             bt_grid.FlatStyle = FlatStyle.Flat;
             bt_grid.Location = new Point(350, 490);   
             bt_grid.Size = new Size(150, 50);
