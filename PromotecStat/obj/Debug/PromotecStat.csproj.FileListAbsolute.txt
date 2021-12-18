@@ -1,0 +1,24 @@
+D:\СЛАВА\C#\100%work\PromotecStat\PromotecStat\PromotecStat\bin\Debug\PromotecStat.exe
+D:\СЛАВА\C#\100%work\PromotecStat\PromotecStat\PromotecStat\bin\Debug\PromotecStat.pdb
+D:\СЛАВА\C#\100%work\PromotecStat\PromotecStat\PromotecStat\bin\Debug\S7.Net.dll
+D:\СЛАВА\C#\100%work\PromotecStat\PromotecStat\PromotecStat\bin\Debug\S7.Net.xml
+D:\СЛАВА\C#\100%work\PromotecStat\PromotecStat\PromotecStat\obj\Debug\PromotecStat.Form1.resources
+D:\СЛАВА\C#\100%work\PromotecStat\PromotecStat\PromotecStat\obj\Debug\PromotecStat.Properties.Resources.resources
+D:\СЛАВА\C#\100%work\PromotecStat\PromotecStat\PromotecStat\obj\Debug\PromotecStat.csproj.GenerateResource.Cache
+D:\СЛАВА\C#\100%work\PromotecStat\PromotecStat\PromotecStat\obj\Debug\PromotecStat.exe
+D:\СЛАВА\C#\100%work\PromotecStat\PromotecStat\PromotecStat\obj\Debug\PromotecStat.pdb
+D:\СЛАВА\C#\100%work\PromotecStat\PromotecStat\PromotecStat\obj\Debug\PromotecStat.csprojResolveAssemblyReference.cache
+K:\Проекты C# +\С ноутбука старые\WEBPROJECT\PromotecStatistics_25.11.2018\PromotecStat\PromotecStat\obj\Debug\PromotecStat.exe
+K:\Проекты C# +\С ноутбука старые\WEBPROJECT\PromotecStatistics_25.11.2018\PromotecStat\PromotecStat\obj\Debug\PromotecStat.pdb
+I:\PromotecStatistics_25.11.2018\PromotecStat\PromotecStat\obj\Debug\PromotecStat.exe
+I:\PromotecStatistics_25.11.2018\PromotecStat\PromotecStat\obj\Debug\PromotecStat.pdb
+I:\PromotecStatistics_25.11.2018\PromotecStat\PromotecStat\bin\Debug\PromotecStat.exe
+I:\PromotecStatistics_25.11.2018\PromotecStat\PromotecStat\bin\Debug\PromotecStat.pdb
+I:\PromotecStatistics_25.11.2018\PromotecStat\PromotecStat\bin\Debug\S7.Net.dll
+I:\PromotecStatistics_25.11.2018\PromotecStat\PromotecStat\bin\Debug\S7.Net.xml
+I:\PromotecStatistics_25.11.2018\PromotecStat\PromotecStat\obj\Debug\PromotecStat.csprojResolveAssemblyReference.cache
+I:\PromotecStatistics_25.11.2018\PromotecStat\PromotecStat\obj\Debug\PromotecStat.Main.resources
+I:\PromotecStatistics_25.11.2018\PromotecStat\PromotecStat\obj\Debug\PromotecStat.Properties.Resources.resources
+I:\PromotecStatistics_25.11.2018\PromotecStat\PromotecStat\obj\Debug\PromotecStat.csproj.GenerateResource.Cache
+K:\Проекты C# +\THM_02.08.2019\THM_Arc\PromotecStat\obj\Debug\PromotecStat.exe
+K:\Проекты C# +\THM_02.08.2019\THM_Arc\PromotecStat\obj\Debug\PromotecStat.pdb

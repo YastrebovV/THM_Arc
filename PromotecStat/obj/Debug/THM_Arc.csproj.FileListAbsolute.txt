@@ -1,0 +1,288 @@
+K:\Проекты C# +\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe
+K:\Проекты C# +\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.pdb
+K:\Проекты C# +\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.dll
+K:\Проекты C# +\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.xml
+K:\Проекты C# +\THM_02.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.Properties.Resources.resources
+K:\Проекты C# +\THM_02.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.GenerateResource.Cache
+K:\Проекты C# +\THM_02.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.exe
+K:\Проекты C# +\THM_02.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.pdb
+K:\Проекты C# +\THM_02.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Main.resources
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.pdb
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.dll
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.xml
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Main.resources
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.Properties.Resources.resources
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.GenerateResource.cache
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.CoreCompileInputs.cache
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.CopyComplete
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.exe
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.pdb
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe.config
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.dll
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.dll
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.dll
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.xml
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.xml
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.xml
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.dll.config
+F:\Проекты C#\THM_02.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csprojAssemblyReference.cache
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe.config
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.exe
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Main.resources
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.Properties.Resources.resources
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.GenerateResource.Cache
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_06.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe.config
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.exe
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Main.resources
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.Properties.Resources.resources
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.GenerateResource.Cache
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_19.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.xml
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe.config
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.exe
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.pdb
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.pdb
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.dll
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.dll
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.dll
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.xml
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.xml
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.xml
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csprojResolveAssemblyReference.cache
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Main.resources
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.Properties.Resources.resources
+D:\Ястребов\C#\23.08.2019\THM_20.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.GenerateResource.Cache
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe.config
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.exe
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.pdb
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.pdb
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.dll
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.dll
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.xml
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.xml
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Main.resources
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.Properties.Resources.resources
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.GenerateResource.Cache
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.pdb
+D:\Ястребов\C#\23.08.2019\THM_23.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe.config
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.exe
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Main.resources
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.Properties.Resources.resources
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.GenerateResource.Cache
+D:\PROGRAMMING\C#  Projects\InWorking\THM_24.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe.config
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.exe
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Main.resources
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.GenerateResource.Cache
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Grid.resources
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Properties.Resources.resources
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe.config
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.exe
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.pdb
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.pdb
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.dll
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.dll
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.dll
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.dll
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.xml
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.xml
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.pdb
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.xml
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Main.resources
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Grid.resources
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Properties.Resources.resources
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.GenerateResource.Cache
+D:\PROGRAMMING\C#  Projects\InWorking\THM_25.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csprojResolveAssemblyReference.cache
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Progress.resources
+D:\Ястребов\C#\23.08.2019\THM_25.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csprojResolveAssemblyReference.cache
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe.config
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.pdb
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.dll
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.dll
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.dll
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.dll
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.EF6.dll
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.Linq.dll
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.xml
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.xml
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.pdb
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.xml
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.dll.config
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csprojAssemblyReference.cache
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Main.resources
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Grid.resources
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Progress.resources
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Properties.Resources.resources
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.GenerateResource.cache
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.CoreCompileInputs.cache
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.CopyComplete
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.exe
+F:\Проекты C#\THM_26.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.pdb
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe.config
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.exe
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\obj\Debug\THN_Arc.pdb
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\bin\Debug\THN_Arc.pdb
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.dll
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.dll
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.dll
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.dll
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.EF6.dll
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.Linq.dll
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.xml
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.xml
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\bin\Debug\S7.Net.pdb
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.xml
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Main.resources
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Grid.resources
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Progress.resources
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Properties.Resources.resources
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.GenerateResource.Cache
+E:\С ДИСКА Н\C#\THM_28.08.2019\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csprojResolveAssemblyReference.cache
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe.config
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THN_Arc.exe
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THN_Arc.pdb
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\THN_Arc.pdb
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\EntityFramework.dll
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.dll
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\MetroFramework.Design.dll
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\MetroFramework.dll
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\MetroFramework.Fonts.dll
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\S7.Net.dll
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.dll
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.EF6.dll
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.Linq.dll
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\EntityFramework.xml
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.xml
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\S7.Net.pdb
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.xml
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csprojResolveAssemblyReference.cache
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Main.resources
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Grid.resources
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Properties.Resources.resources
+E:\С ДИСКА Н\C#\THM_28.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.GenerateResource.Cache
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe.config
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THN_Arc.exe
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THN_Arc.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\THN_Arc.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\EntityFramework.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\MetroFramework.Design.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\MetroFramework.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\MetroFramework.Fonts.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\S7.Net.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\EntityFramework.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\S7.Net.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Main.resources
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Grid.resources
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Properties.Resources.resources
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.GenerateResource.Cache
+D:\PROGRAMMING\C#  Projects\InWorking\THM_28.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe.config
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THN_Arc.exe
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THN_Arc.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\THN_Arc.exe
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\THN_Arc.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\EntityFramework.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\MetroFramework.Design.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\MetroFramework.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\MetroFramework.Fonts.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\S7.Net.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\EntityFramework.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\S7.Net.pdb
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\bin\Debug\System.Data.SQLite.xml
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csprojResolveAssemblyReference.cache
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Main.resources
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Grid.resources
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Properties.Resources.resources
+D:\PROGRAMMING\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.GenerateResource.Cache
+E:\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csprojAssemblyReference.cache
+E:\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Main.resources
+E:\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Grid.resources
+E:\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.Properties.Resources.resources
+E:\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.GenerateResource.cache
+E:\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THM_Arc.csproj.CoreCompileInputs.cache
+E:\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THN_Arc.exe
+E:\C#  Projects\InWorking\THM_31.08.2019_Metro\THM_Arc\PromotecStat\obj\Debug\THN_Arc.pdb
